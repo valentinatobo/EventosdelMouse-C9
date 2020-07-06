@@ -9,7 +9,7 @@ Se le agrego interactividad al proyecto por medio de los eventos del mouse, se r
 
 En todas las clases que se requeria el uso de eventos del mouse se implemento MouseActionListener, como en la imagen:
 
-![implementacionmo]()
+![implementacionmo](https://github.com/valentinatobo/EventosdelMouse-C9/blob/master/Proy_Twitter/imagenes/implemo.PNG)
 
 
 # Representación única para objetos gráficos de una misma Clase
@@ -27,6 +27,10 @@ Lo que se hizo es que al dar click en el panel para hacer tweet se borre la fras
 # Discriminación de Clases
 
 ![ejemplodiscriminacion](https://github.com/valentinatobo/EventosdelMouse-C9/blob/master/Proy_Twitter/imagenes/objetoscombinados.PNG)
+
+Al pasar por los botones cambian de color 
+
+![imageninterfaz]()
 
 # Efectos hacia otros objetos Gráficos
 
@@ -46,6 +50,6 @@ Se implemento la interface MouseMotionListener que a la vez se convino con event
 
 # Se agrego el boton minimizar junto con cerrar 
 
-![codigo]()
+![codigo](https://github.com/valentinatobo/EventosdelMouse-C9/blob/master/Proy_Twitter/imagenes/solobotones.PNG)
 
-![panelbotones]()
+![panelbotones](https://github.com/valentinatobo/EventosdelMouse-C9/blob/master/Proy_Twitter/imagenes/barra.PNG)
