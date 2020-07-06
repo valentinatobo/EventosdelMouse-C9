@@ -30,7 +30,7 @@ Lo que se hizo es que al dar click en el panel para hacer tweet se borre la fras
 
 Al pasar por los botones cambian de color 
 
-![imageninterfaz]()
+![imageninterfaz](https://github.com/valentinatobo/EventosdelMouse-C9/blob/master/Proy_Twitter/imagenes/cambiocolor.PNG)
 
 # Efectos hacia otros objetos Gráficos
 
