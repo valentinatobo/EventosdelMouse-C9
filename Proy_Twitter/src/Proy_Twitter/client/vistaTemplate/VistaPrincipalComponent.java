@@ -52,7 +52,7 @@ public class VistaPrincipalComponent {
         this.navegacionusuariocomponent = new NavegacionUsuarioComponents(this);
         this.barrabuscarcomponent = new BarraBuscarComponents();
         this.barrabotonescomponent = new BarraBotonesComponent(this);
-        
+        this.inicioComponent = new InicioComponent();
         
         vistaprincipaltemplate.getPInicio().add(
                 barratitulocomponent.getBarraTituloTemplate()
@@ -68,6 +68,7 @@ public class VistaPrincipalComponent {
          vistaprincipaltemplate.getpBotones().add(
                barrabotonescomponent.getBarraBotonesTemplate()
         );
+        vistaprincipaltemplate.getPPrincipal().add(inicioComponent.getInicioTemplate());
        
         
     }
